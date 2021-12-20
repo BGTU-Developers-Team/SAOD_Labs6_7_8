@@ -1,0 +1,15 @@
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/Lab8.deps.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/Lab8.runtimeconfig.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/Lab8.runtimeconfig.dev.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/Lab8.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/ref/Lab8.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/bin/Debug/net5.0/Lab8.pdb
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.csprojAssemblyReference.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.AssemblyInfoInputs.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.AssemblyInfo.cs
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/ref/Lab8.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.pdb
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab8/obj/Debug/net5.0/Lab8.genruntimeconfig.cache

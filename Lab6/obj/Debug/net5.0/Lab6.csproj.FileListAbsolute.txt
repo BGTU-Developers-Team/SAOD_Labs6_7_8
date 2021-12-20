@@ -1,0 +1,15 @@
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/Lab6.deps.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/Lab6.runtimeconfig.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/Lab6.runtimeconfig.dev.json
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/Lab6.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/ref/Lab6.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/bin/Debug/net5.0/Lab6.pdb
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.csprojAssemblyReference.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.AssemblyInfoInputs.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.AssemblyInfo.cs
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/ref/Lab6.dll
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.pdb
+/Users/sveta/Documents/BGTU/saod/Lab6_graph/Lab6/obj/Debug/net5.0/Lab6.genruntimeconfig.cache
